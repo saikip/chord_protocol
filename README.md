@@ -10,7 +10,6 @@ described in the Chord MIT paper and encode the simple application that associat
 ## **INSTALLATION AND RUN** 
 
 Elixir Mix project is required to be installed. 
-
 Files of importance in the zipped folder (in order of call):
 
 *entrypoint.exs*     -> Commandline entry module
