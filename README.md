@@ -1,9 +1,7 @@
 ## **CHORD PROTOCOL - COP5615: Fall 2018**
 
-## **TEAM MEMBERS**
+## **TEAM INFO**
 Priyam Saikia (UFID **** ****)
-
-Noopur R Kalawatia (UFID **** ****)
 
 ## **PROBLEM**
 Design chord protocol using genserver/Actor model in Elixir to implement the network join and routing as 
